@@ -2,17 +2,17 @@
 
  [![License](http://img.shields.io/badge/license-MIT-blue.svg)](http://en.wikipedia.org/wiki/MIT_License)
 
-**Author:** _\<your name\>_
+**Author:** _\Rachel Benavente\>_
 
-**Due date:** _\<date\>_
+**Due date:** _\February 19, 2015\>_
 
 ## Description
 
-_\<Give a description of the assignment here. Often this will be copied from the text.\>_
+_\<The assignment given had us completing three exercises from Chapter 1 of the book.\>_
 
 ## What I Learned from This
 
-_\<Explain what you learned from this assignment. This should be in your own words.\>_
+_\<I learned how to use basic python functions such as how to create equations and its unique syntax.\>_
 
 ## Honor Pledge
 
@@ -23,4 +23,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+_\Rachel Benavente>_
